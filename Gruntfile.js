@@ -263,8 +263,7 @@ module.exports = function (grunt) {
 	grunt.registerTask('dev', [
 		'tslint',
 		'ts:dev',
-		'copy:staticTestFiles',
-		'updateTsconfig'
+		'copy:staticTestFiles'
 	]);
 	grunt.registerTask('dist', [
 		'tslint',
