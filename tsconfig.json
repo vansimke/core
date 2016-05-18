@@ -14,7 +14,7 @@
 	"filesGlob": [
 		"./src/**/*.ts",
 		"./tests/**/*.ts",
-		"./typings/tsd.d.ts"
+		"./typings/index.d.ts"
 	],
 	"files": [
 		"./src/DateObject.ts",
@@ -83,17 +83,6 @@
 		"./tests/services/echo.ts",
 		"./tests/support/Reporter.ts",
 		"./tests/support/util.ts",
-		"./tests/typings/benchmark/benchmark.d.ts",
-		"./tests/typings/chai/chai.d.ts",
-		"./tests/typings/digdug/digdug.d.ts",
-		"./tests/typings/dojo2/dojo.d.ts",
-		"./tests/typings/formidable/formidable.d.ts",
-		"./tests/typings/http-proxy/http-proxy.d.ts",
-		"./tests/typings/intern/intern.d.ts",
-		"./tests/typings/leadfoot/leadfoot.d.ts",
-		"./tests/typings/services/echo.d.ts",
-		"./tests/typings/sinon/sinon.d.ts",
-		"./tests/typings/tsd.d.ts",
 		"./tests/unit/DateObject.ts",
 		"./tests/unit/Evented.ts",
 		"./tests/unit/Map.ts",
@@ -159,6 +148,6 @@
 		"./tests/unit/text_browser.ts",
 		"./tests/unit/text_node.ts",
 		"./tests/unit/util.ts",
-		"./typings/tsd.d.ts"
+		"./typings/index.d.ts"
 	]
 }

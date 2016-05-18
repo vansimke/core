@@ -13,3 +13,6 @@ html-report
 coverage-final.lcov
 coverage-unmapped.json
 /_build
+/typings
+/tests/typings
+npm-debug.log

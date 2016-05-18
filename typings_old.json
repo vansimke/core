@@ -1,0 +1,17 @@
+{
+	"name": "dojo-core",
+	"globalDevDependencies": {
+		"dojo-loader": "npm:dojo-loader",
+		"node": "github:dojo/core/typings/node/node.d.ts#a20235038c53d33eccfb31bd6c69ffc5e21e882c",
+		"benchmark": "github:dojo/core/tests/typings/benchmark/benchmark.d.ts#a20235038c53d33eccfb31bd6c69ffc5e21e882c",
+		"chai": "github:dojo/core/tests/typings/chai/chai.d.ts#a20235038c53d33eccfb31bd6c69ffc5e21e882c",
+		"digdug": "github:dojo/core/tests/typings/digdug/digdug.d.ts#a20235038c53d33eccfb31bd6c69ffc5e21e882c",
+		"dojo2": "github:dojo/core/tests/typings/dojo2/dojo.d.ts#a20235038c53d33eccfb31bd6c69ffc5e21e882c",
+		"formidable": "github:dojo/core/tests/typings/formidable/formidable.d.ts#a20235038c53d33eccfb31bd6c69ffc5e21e882c",
+		"http-proxy": "github:dojo/core/tests/typings/http-proxy/http-proxy.d.ts#a20235038c53d33eccfb31bd6c69ffc5e21e882c",
+		"intern": "github:dojo/core/tests/typings/intern/intern.d.ts#a20235038c53d33eccfb31bd6c69ffc5e21e882c",
+		"leadfoot": "github:dojo/core/tests/typings/leadfoot/leadfoot.d.ts#a20235038c53d33eccfb31bd6c69ffc5e21e882c",
+		"echo": "github:dojo/core/tests/typings/services/echo.d.ts#a20235038c53d33eccfb31bd6c69ffc5e21e882c",
+		"sinon": "github:dojo/core/tests/typings/sinon/sinon.d.ts#a20235038c53d33eccfb31bd6c69ffc5e21e882c"
+	}
+}
