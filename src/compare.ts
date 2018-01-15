@@ -113,7 +113,7 @@ export type PatchRecord = {
 		 * The type of the patch
 		 */
 		type: 'delete';
-	} | {
+	//} | {
 		/**
 		 * A property descriptor that describes the property in `name`
 		 */
@@ -122,12 +122,12 @@ export type PatchRecord = {
 		/**
 		 * The name of the property on the Object
 		 */
-		name: string;
+		//name: string;
 
 		/**
 		 * The type of the patch
 		 */
-		type: 'add' | 'update';
+		//type: 'add' | 'update';
 
 		/**
 		 * Additional patch records which describe the value of the property
